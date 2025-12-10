@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "61325356093",
+    "project_id": "cartle-auction-house",
+    "storage_bucket": "cartle-auction-house.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61325356093:android:ab3bd6526bdd40cf5f4e54",
+        "android_client_info": {
+          "package_name": "com.richyyyy.sdkdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61325356093-51v1d9v7jv8uirmj33f3s28ja37gorei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.richyyyy.sdkdemo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "61325356093-sbl1bvpkh5lttkaqbsbo3jidha07l97o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.richyyyy.sdkdemo",
+            "certificate_hash": "defe6bc9b0f380ffc5728fb1a7cd075059618904"
+          }
+        },
+        {
+          "client_id": "61325356093-rj6tq3mdgenk8kvm0bvhf2fvm87k7njt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIjwynt6FXGfa01B6T3xxLQO2ggiFg1jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61325356093-rj6tq3mdgenk8kvm0bvhf2fvm87k7njt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "61325356093-ckgkt5dunbinbsthfisuirvgt7hj3mh0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.richyyyy.sdkdemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
