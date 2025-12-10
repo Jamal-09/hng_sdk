@@ -9,13 +9,13 @@ A demo app built with the react native sdk.
 ## Installation & Setup
 
 ```bash
-git clone https://github.com/Jamal-09/hng_auth_demo
-cd hng_auth_demo
+git clone https://github.com/Jamal-09/hng_sdk
+cd ja-sdk-demo
 ```
 
 ```bash
 npm install
-npx expo prebuild --clean
+npx expo prebuild
 ```
 
 ```bash
