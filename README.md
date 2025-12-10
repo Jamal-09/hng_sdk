@@ -19,8 +19,8 @@ npx expo prebuild
 ```
 
 ```bash
-npm run:android
-npm run:ios
+npx expo run:android
+npx expo run:ios
 ```
 
 ## Contributors
