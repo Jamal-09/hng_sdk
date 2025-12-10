@@ -27,8 +27,8 @@ npm run:ios
 
 Thank you to the amazing people who contributed to this project:
 
-| Name           | Role            | GitHub                                                  |
-| -------------- | --------------- | ------------------------------------------------------- |
-| Richard Ikenna | Mobile Engineer | [https://github.com/](https://github.com/ikennarichard) |
-| Adekunle       | Mobile Engineer | [https://github.com/](https://github.com/Jamal-09)      |
-| Aba Victor     | Mobile Engineer | [https://github.com/](https://github.com/Visino2)       |
+| Name           | Role            | GitHub                                                               |
+| -------------- | --------------- | -------------------------------------------------------------------- |
+| Richard Ikenna | Mobile Engineer | [https://github.com/ikennarichard](https://github.com/ikennarichard) |
+| Adekunle       | Mobile Engineer | [https://github.com/Jamal-09](https://github.com/Jamal-09)           |
+| Aba Victor     | Mobile Engineer | [https://github.com/Visino2](https://github.com/Visino2)             |
